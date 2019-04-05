@@ -1,4 +1,4 @@
-# [roadrunner](https://github.com/spiral/roadrunner)-zend-expressive-integration
+# Zend Expressive integration for [roadrunner](https://github.com/spiral/roadrunner)
 
 The entrypoint file can look like bellow: 
 ```php
